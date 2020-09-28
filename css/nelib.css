@@ -1,0 +1,23 @@
+.lib_button{
+    margin: 3px;
+    border: none;
+    color: #ffffff;
+    border-radius: 0;
+    cursor: pointer;
+    width: 80px;
+}
+
+.lib_button.ok_button{
+    background: rgb(99, 152, 202);
+}
+
+.lib_button.cancel_button{
+    background: #c1c1c1;
+}
+
+select {
+    height: 24px;
+}
+*{
+    max-width: 100%;
+}
